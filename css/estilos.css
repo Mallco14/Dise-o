@@ -1,0 +1,33 @@
+.navbar{
+    box-shadow: 2px 2px black;
+}
+
+.navbar .nav-item .nav-link
+{
+    color: white;
+}
+
+.main-header{
+    background: url(../img/fondo.jpg);
+    min-height: 500px;
+    /*defiinir como unica imagen*/
+    background-size:  cover;
+}
+.backgroup-overlay{
+    background-color: rgba(72, 52, 212,.7);
+    width: 100%;
+    height: 100%;
+}
+
+#hola{
+    background-color: #30336b;
+    padding: 150px;
+}
+#boton{
+    width: 67.5em;
+}
+
+#imagen2{
+    position: relative;
+    left: 100px;
+}
